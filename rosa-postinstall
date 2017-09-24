@@ -37,5 +37,6 @@ else
 	echo "Zram ЕСТЬ"
 	exit 1
 fi
+rm -rf /tmp/script/tmp
 echo "КОНЕЦ!)))"
 exit 0
